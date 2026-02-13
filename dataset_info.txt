@@ -1,0 +1,4 @@
+Dataset sources:
+- Kaggle phishing dataset
+- Simulated banking scams
+- Email phishing samples
